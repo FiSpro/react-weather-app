@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\current-weather",
+    "\\src\\components\\forecast",
+    "\\src\\components\\search"
+  ],
+  "SelectedNode": "\\.gitignore",
+  "PreviewInSolutionExplorer": false
+}
